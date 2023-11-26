@@ -26,3 +26,5 @@ function displayCurrentListTotal() {
     
     parentDiv.appendChild(spanElement);
 }
+
+displayCurrentListTotal();
